@@ -3,6 +3,7 @@ title: Augmenting View Count data into Superbowl Ads
 author: Alex Moyse
 output: html_document
 ---
+Please see https://rpubs.com/amantux/Assignment1 for prettier results
 
 <h1> Project Background </h1>
 
